@@ -431,6 +431,30 @@
     flex-direction: column;
   }
 
+  .logo-block {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .logo-block2 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .logo-block3 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .logo-block4 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
   .logo-img-block2 {
     display: flex;
     align-items: center;
