@@ -160,6 +160,29 @@
   gap: 133px;
 }
 
+.logo-block {
+  display: flex;
+  align-items: center;
+  gap: 73px;
+}
+
+.logo-block2 {
+  display: flex;
+  align-items: center;
+  gap: 73px;
+}
+
+.logo-block3 {
+  display: flex;
+  align-items: center;
+  gap: 73px;
+}
+
+.logo-block4 {
+  display: flex;
+  align-items: center;
+  gap: 73px;
+}
 .logo-img {
   display: flex;
   flex-direction: column;
