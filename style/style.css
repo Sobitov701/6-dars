@@ -289,7 +289,7 @@
   }
 
   .container2 {
-    width: 1200px;
+    width: 1000px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -317,7 +317,7 @@
   }
 
   .container3 {
-    width: 1200px;
+    width: 1000px;
     margin: 120px auto;
     display: flex;
     flex-direction: column;
@@ -353,7 +353,7 @@
   }
 
   .container4 {
-    width: 1200px;
+    width: 1000px;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -381,7 +381,7 @@
   }
 
   .container2 {
-    width: 1200px;
+    width: 1000px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -401,7 +401,7 @@
   }
 
   .container3 {
-    width: 1200px;
+    width: 1000px;
     margin: 120px auto;
     display: flex;
     flex-direction: column;
@@ -429,7 +429,7 @@
   }
 
   .container4 {
-    width: 1200px;
+    width: 1000px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -478,7 +478,7 @@
   }
 
   .container2 {
-    width: 1200px;
+    width: 1000px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -502,7 +502,7 @@
   }
 
   .container3 {
-    width: 1200px;
+    width: 1000px;
     margin: 120px auto;
     display: flex;
     flex-direction: column;
@@ -529,7 +529,7 @@
   }
 
   .container4 {
-    width: 1200px;
+    width: 1000px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -578,7 +578,7 @@
   }
 
   .container2 {
-    width: 1200px;
+    width: 1000px;
     margin: 0 auto;
     padding: 120px;
     display: flex;
@@ -609,7 +609,7 @@
   }
 
   .container3 {
-    width: 1200px;
+    width: 1000px;
     margin: 120px auto;
     display: flex;
     flex-direction: column;
@@ -640,7 +640,7 @@
   }
 
   .container4 {
-    width: 1200px;
+    width: 1000px;
     display: flex;
     flex-direction: column;
     align-items: center;
