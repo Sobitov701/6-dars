@@ -378,7 +378,6 @@
 @media screen and (max-width: 768px) {
   .container {
     margin: 0 auto;
-    width: 48%;
   }
 
   .container2 {
@@ -476,7 +475,6 @@
 @media screen and (max-width: 576px) {
   .container {
     margin: 0 auto;
-    width: 48%;
   }
 
   .container2 {
@@ -577,7 +575,6 @@
 @media screen and (max-width: 481px) {
   .container {
     margin: 0 auto;
-    width: 48%;
   }
 
   .container2 {
